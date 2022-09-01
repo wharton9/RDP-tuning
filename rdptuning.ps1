@@ -20,7 +20,7 @@ https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool
   #>
         $LocalPolicyFilePath = ".\PolicyRegSettings.json"
 	$EventSources="LGPO"
-    If (-not([System.Diagnostics.EventLog]::SourceExists("Virtual Desktop Optimization")))
+    If (-not([System.Diagnostics.EventLog]::Exists("Virtual Desktop Optimization")))
     {
         New-EventLog -Source $EventSources -LogName 'Virtual Desktop Optimization'
     }
