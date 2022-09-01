@@ -1,0 +1,123 @@
+[
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "selecttransport",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "bEnumerateHWBeforeSW",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "AVC444ModePreferred",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "AVCHardwareEncodePreferred",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "MaxCompressionLevel",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "ImageQuality ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "2",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": " ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "2",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:SYSTEM\\CurrentControlSet\\Control\\Terminal Server\\WinStations",
+        "RegItemValueName": "DWMFRAMEINTERVAL",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0xf",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Multimedia\\SystemProfile",
+        "RegItemValueName": "SystemResponsiveness ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
+        "RegItemValueName": " ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
+        "RegItemValueName": "FlowControlDisable",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
+        "RegItemValueName": "FlowControlDisplayBandwidth ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "10",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
+        "RegItemValueName": "FlowControlChannelBandwidth ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "90",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
+        "RegItemValueName": "FlowControlChargePostCompression",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Terminal Server\\WinStations\\RDP-Tcp",
+        "RegItemValueName": "InteractiveDelay ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters",
+        "RegItemValueName": "DisableLargeMtu ",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "0",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\LanmanWorkstation\\Parameters",
+        "RegItemValueName": "DisableBandwidthThrottling",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    }
+ 
+
+]
