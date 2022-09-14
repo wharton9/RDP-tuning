@@ -38,14 +38,7 @@
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
         "RegItemValueName": "ImageQuality ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "2",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
-        "RegItemValueName": " ",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "2",
+        "RegItemValue": "1",
         "VDIState": "Enabled"
     },
     {
@@ -64,13 +57,6 @@
     },
     {
         "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
-        "RegItemValueName": " ",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "0",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
         "RegItemValueName": "FlowControlDisable",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
@@ -80,14 +66,14 @@
         "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
         "RegItemValueName": "FlowControlDisplayBandwidth ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "10",
+        "RegItemValue": "0x10",
         "VDIState": "Enabled"
     },
     {
         "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
         "RegItemValueName": "FlowControlChannelBandwidth ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "90",
+        "RegItemValue": "0x90",
         "VDIState": "Enabled"
     },
     {
