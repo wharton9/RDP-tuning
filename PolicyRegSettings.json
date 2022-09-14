@@ -15,6 +15,13 @@
     },
     {
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
+        "RegItemValueName": "VisualExperiencePolicy",
+        "RegItemValueType": "DWord",
+        "RegItemValue": "1",
+        "VDIState": "Enabled"
+    },
+    {
+        "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
         "RegItemValueName": "AVC444ModePreferred",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
@@ -66,14 +73,14 @@
         "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
         "RegItemValueName": "FlowControlDisplayBandwidth ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "0x10",
+        "RegItemValue": "10",
         "VDIState": "Enabled"
     },
     {
         "RegItemPath": "HKLM:\\SYSTEM\\CurrentControlSet\\Services\\TermDD",
         "RegItemValueName": "FlowControlChannelBandwidth ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "0x90",
+        "RegItemValue": "90",
         "VDIState": "Enabled"
     },
     {
