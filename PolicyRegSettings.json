@@ -45,7 +45,7 @@
         "RegItemPath": "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Terminal Services",
         "RegItemValueName": "ImageQuality ",
         "RegItemValueType": "DWord",
-        "RegItemValue": "1",
+        "RegItemValue": "2",
         "VDIState": "Enabled"
     },
     {
